@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Mahesh Vispute
 
-🚀 **Full-Stack Leaner (MERN & Next.js)** | 💡 Building Awesome Projects
+🚀 **Full-Stack Learner (MERN & Next.js)** | 💡 Building Awesome Projects
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Pursuing **BTech CE**, passionate about **Web Development & Python**  
-- 🌱 Leaned **MERN stack & Next.js**
+- 🌱 Learned **MERN stack & Next.js**
 - 🧠 Love building projects
 - Currently **Lerning Python Programing**
 ---
